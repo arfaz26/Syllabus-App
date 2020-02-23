@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="#ffffff"
+xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/sem5"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp">
+
+<com.github.barteksc.pdfviewer.PDFView
+    android:id="@+id/pdfView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerInParent="true"/>
+
+</RelativeLayout>

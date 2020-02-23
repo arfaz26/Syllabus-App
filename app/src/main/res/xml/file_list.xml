@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path name="demo"
+        path="Android/data/demo.com.camera/files/Pictures" />
+
+</paths>
